@@ -9,7 +9,7 @@ const Header = () => {
                 <li><a href="#headerSection">Home</a></li>
                 <li><a href="#aboutSection">About</a></li>
                 <li><a href="#projectSection">Project</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#contactSection">Contact</a></li>
             </ul>
         </div>
         <div className="header-container">
